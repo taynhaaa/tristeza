@@ -1,0 +1,26 @@
+h1{
+    font-size: 5rem;
+    text-align: center;
+    background-color: rgb(109, 5, 5);
+    color: white;
+}
+
+
+img {
+    width: 30%;
+    height: 30rem;
+    text-align: center;
+   margin-top: 10%;
+  
+}
+
+body{
+    background-color: #0b026e;
+}
+
+#prova{
+    font-size: 5rem;
+    text-align: center;
+    background-color: rgb(109, 5, 5);
+    color: white;
+}
